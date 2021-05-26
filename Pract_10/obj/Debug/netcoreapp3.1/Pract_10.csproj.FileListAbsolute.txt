@@ -1,0 +1,13 @@
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\bin\Debug\netcoreapp3.1\Pract_10.exe
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\bin\Debug\netcoreapp3.1\Pract_10.deps.json
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\bin\Debug\netcoreapp3.1\Pract_10.runtimeconfig.json
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\bin\Debug\netcoreapp3.1\Pract_10.runtimeconfig.dev.json
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\bin\Debug\netcoreapp3.1\Pract_10.dll
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\bin\Debug\netcoreapp3.1\Pract_10.pdb
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.csprojAssemblyReference.cache
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.AssemblyInfoInputs.cache
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.AssemblyInfo.cs
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.csproj.CoreCompileInputs.cache
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.dll
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.pdb
+C:\Users\MaximNagibator228`\source\repos\Pract_10\Pract_10\obj\Debug\netcoreapp3.1\Pract_10.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wob8HSigTvw9afrkkiRUupe4o5ojsbWCUmLcMo9wtsATWTJm9rZXUsFc1g/asx5CmJVGwqlRdmGUM7z8UPfgCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaximNagibator228`\\source\\repos\\Pract_10\\Pract_10\\Pract_10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaximNagibator228`\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
